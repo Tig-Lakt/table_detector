@@ -130,3 +130,8 @@ python select_roi.py
 
 Посетитель проходит мимо столика — система зафиксировала присутствие (2.5с),
 но постфильтрация корректно убрала это событие как проход мимо.
+
+## Результирующее видео
+
+[Скачать output.mp4](https://drive.google.com/file/d/19O6n0_1o1pHnWGuFlD-uxy7feqKXUL-F/view?usp=drive_link)
+
